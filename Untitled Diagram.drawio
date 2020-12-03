@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T20:11:38.655Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="eL4QHkVXUgwM19lxntzc" version="13.10.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T20:43:29.959Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="u1hAG0rBawAibtvzif5t" version="13.10.7" type="github">
   <diagram id="tZdfhmK-1blr774ucnRO" name="Page-1">
     <mxGraphModel dx="870" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,35 +39,65 @@
         <mxCell id="SFJEp2TXbjHVLnNIn21z-40" value="&lt;meta charset=&quot;utf-8&quot;&gt;Any continuous function f : [a, b] → R is integrable." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SFJEp2TXbjHVLnNIn21z-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.389;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="225" as="sourcePoint" />
             <mxPoint x="285" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="415" y="240" />
-              <mxPoint x="285" y="240" />
+              <mxPoint x="285" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SFJEp2TXbjHVLnNIn21z-42" value="Every integrable function f : [a, b] → R is bounded and&lt;br&gt;unbounded functions are not integrable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="315" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SFJEp2TXbjHVLnNIn21z-46" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-46" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="350" as="sourcePoint" />
-            <mxPoint x="425" y="410" as="targetPoint" />
+            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="515" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SFJEp2TXbjHVLnNIn21z-47" value="Any continuous function f : [a, b] → R is integrable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="420" width="110" height="20" as="geometry" />
+          <mxGeometry x="460" y="420" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SFJEp2TXbjHVLnNIn21z-52" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-40" target="SFJEp2TXbjHVLnNIn21z-47">
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-52" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="320" as="sourcePoint" />
-            <mxPoint x="430" y="270" as="targetPoint" />
+            <mxPoint x="560" y="425" as="targetPoint" />
             <Array as="points">
               <mxPoint x="645" y="425" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-53" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="425" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="580" as="sourcePoint" />
+            <mxPoint x="425" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-54" value="First Fundamental Theorem of Calculus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-55" value="Mean Value Theoram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="525" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-56" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-57" value="Second Fundamental Theorem of Calculus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="660" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
