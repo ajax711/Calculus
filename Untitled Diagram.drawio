@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T19:43:03.449Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.10.7" etag="eUNgicodvkTJWZcTVDwY" type="github"><diagram id="tZdfhmK-1blr774ucnRO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T20:11:38.655Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="eL4QHkVXUgwM19lxntzc" version="13.10.7" type="github">
+  <diagram id="tZdfhmK-1blr774ucnRO" name="Page-1">
+    <mxGraphModel dx="870" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-2" target="SFJEp2TXbjHVLnNIn21z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-4" target="SFJEp2TXbjHVLnNIn21z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Riemann Integral&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5" target="SFJEp2TXbjHVLnNIn21z-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Integrablity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-34" value="All constant and stepwise functions are integrable&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-35" value="Dirichlet function is non inegrable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="335" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-39" target="SFJEp2TXbjHVLnNIn21z-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Uniform Continuity&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-40" value="&lt;meta charset=&quot;utf-8&quot;&gt;Any continuous function f : [a, b] → R is integrable." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.389;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="240" />
+              <mxPoint x="285" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-42" value="Every integrable function f : [a, b] → R is bounded and&lt;br&gt;unbounded functions are not integrable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-46" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="425" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-47" value="Any continuous function f : [a, b] → R is integrable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFJEp2TXbjHVLnNIn21z-52" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFJEp2TXbjHVLnNIn21z-40" target="SFJEp2TXbjHVLnNIn21z-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
